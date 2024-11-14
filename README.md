@@ -296,6 +296,8 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/94fbc154-b987-417e-9e03-1375601e7445)
+
 
 ### 24. `gzip` Command
 
@@ -307,6 +309,8 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/c9e7df3d-2f2e-4835-a7ba-ef003e4531b0)
+
 
 ### 25. `sort` Command
 
@@ -318,6 +322,7 @@ sort <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/c82c29cf-793f-4bbb-ac8a-7417bd31280f)
 
 ### 26. `cal` Command
 
@@ -329,6 +334,7 @@ cal
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/280a7b9d-2f88-4585-b5b0-cc7080e2a8e1)
 
 ### 27. `clear` Command
 
@@ -340,6 +346,8 @@ clear
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2fd83b15-93f5-47c5-a414-b6ff395cd2a3)
+
 
 ### 28. `mail` Command
 
@@ -351,6 +359,8 @@ mail
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/19d4e8e1-b5fa-4384-86ae-444988b27d05)
+
 
 ### 29. `df` Command
 
