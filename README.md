@@ -19,6 +19,8 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/27893e2e-01ee-4adf-b375-50dc06510df2)
+
 
 ### 2. `pwd` Command
 
@@ -30,6 +32,8 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/f7f0b250-c93c-4035-97e3-09734724db5e)
+
 
 ### 3. `mkdir` Command
 
@@ -41,6 +45,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/7a58ddb9-fb44-4cf0-a06a-5fe470a0eabb)
+
 
 ### 4. `rmdir` Command
 
@@ -52,6 +58,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/12c46f5e-97f8-4c67-9178-319b72e5b323)
 
 ### 5. `cd` Command
 
@@ -63,6 +70,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/a4507643-8edb-4ac5-a922-b090fd27a04e)
+
 
 ### 6. `cat` Command
 
@@ -74,6 +83,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/dccfd0c9-10b0-470f-8086-34cfcd9536b6)
+
 
 ### 7. `cp` Command
 
@@ -85,6 +96,8 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/1fc2405f-5a24-4341-88ab-b69ca08864e4)
+
 
 ### 8. `gedit` Command
 
@@ -96,6 +109,7 @@ gedit <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/c29e5a59-d865-4c5a-aaac-b064a608db2a)
 
 ### 9. `su` Command
 
@@ -107,6 +121,7 @@ su <username>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/bc2c39a6-ab17-45ec-85fc-aca23f246e72)
 
 ### 10. `mv` Command
 
@@ -118,6 +133,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ea469750-58bd-416d-94bf-49d75c5961d2)
 
 ### 11. `rename` Command
 
@@ -129,6 +145,8 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/5a7af388-032a-47ff-b7d0-0d75517e1c03)
+
 
 ### 12. `head` Command
 
@@ -140,6 +158,8 @@ head <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/6c047c08-db1c-413e-8e30-d3535767e949)
+
 
 ### 13. `tail` Command
 
@@ -151,6 +171,7 @@ tail <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/01c5b96d-3321-438a-9257-c6a2ebace192)
 
 ### 14. `id` Command
 
@@ -162,6 +183,8 @@ id
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/bb953f13-a28a-4414-b498-174d2fbb28e9)
+
 
 ### 15. `grep` Command
 
@@ -173,6 +196,8 @@ command | grep <search_word>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/846e67d7-b801-49a3-92f3-c04d3c4ecdf2)
+
 
 ### 16. `tr` Command
 
@@ -184,6 +209,7 @@ command | tr <old> <new>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ac6b9244-b67c-4e16-b6d6-2e944fea093a)
 
 ### 17. `chmod` Command
 
@@ -195,6 +221,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/44653859-a2b9-4006-857e-9e9287a4593a)
 
 ### 18. `tar` Command
 
@@ -206,6 +233,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/505a22ed-e405-4f8a-8cce-2a14fb09906b)
 
 ### 19. `chown` Command
 
@@ -217,6 +245,8 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/7c6d6e46-69c8-4db7-9b25-ad88b984bc79)
+
 
 ### 20. `make` Command
 
@@ -228,6 +258,7 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/8dd4d011-002b-4c28-a1fd-96d2de949152)
 
 ### 21. `ifconfig` Command
 
@@ -239,6 +270,7 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/e8145990-c2c8-4537-b15c-8763af6e84f2)
 
 ### 22. `chmod 777` Command
 
@@ -251,6 +283,8 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ea4dfe32-a824-4b9e-ade1-683b8d6fef3d)
+
 
 ### 23. `host` Command
 
